@@ -1,6 +1,6 @@
 # Hello! My name is Cameron DeCoster and I love solving puzzles.
 
-I'm always learning about new technologies and trying to build things with them. Write now, I'm working on learning Golang and Kubernetes. Some of the technologies that I enjoy using include:
+I'm always learning about new technologies and trying to build things with them. Right now, I'm working on learning Golang and Kubernetes. Some of the technologies that I enjoy using include:
 
 -   JavaScript
 -   React
