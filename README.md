@@ -7,4 +7,4 @@ I'm always learning about new technologies and trying to build things with them.
 -   Python
 -   Vue
 
-I live in the sunny state of Colorado and this GitHub page is where I host my projects. Check out some of them below!
+You can see my portfolio [here](https://camdecoster.github.io/portfolio/) or find me on [LinkedIn](https://www.linkedin.com/in/camerondecoster/). I live in the sunny state of Colorado and this GitHub page is where I host my projects. Check out some of them below!
