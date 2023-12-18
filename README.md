@@ -8,4 +8,4 @@ I'm always learning about new technologies and trying to build things with them.
 - Node
 - Python
 
-You can see my personal site [here](https://camdecoster.github.io/) or find me on [LinkedIn](https://www.linkedin.com/in/camerondecoster/). I live in the sunny state of Colorado and this GitHub page is where I host my projects. Check out some of them below!
+You can see my personal site [here](https://camdecoster.dev/) or find me on [LinkedIn](https://www.linkedin.com/in/camerondecoster/). I live in the sunny state of Colorado and this GitHub page is where I host my projects. Check out some of them below!
